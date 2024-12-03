@@ -47,7 +47,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="h7_about-img w_img mb-50">
                         <img src="assets/img/about/about_us.png" alt="">
-                        <a href="https://www.youtube.com/watch?v=dMlASgogxo4" class="popup-video">
+                        <a href="https://www.youtube.com/embed/JiX26BckmJc?autoplay=1" class="popup-video">
                             <svg width="131" height="132" viewBox="0 0 131 132" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="65" cy="66" r="64" stroke="white" stroke-opacity="0.14" stroke-width="2"></circle>
                                 <path d="M65 131C100.899 131 130 101.899 130 66C130 30.1015 100.899 1 65 1" stroke="#00ADEF" stroke-width="2"></path>
@@ -62,7 +62,7 @@
     <!-- about area end -->
 
     <!-- teacher area start -->
-    <div class="h4_faq-area pt-50 pb-50" style="background:#F6F6F6;">
+    <div class="h4_faq-area pt-50 pb-50" style="background:#00adef73;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -86,10 +86,10 @@
                                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#Expp">
                                         <div class="accordion-body">
                                             <p>
-                                            To transform young women from economically disadvantaged and rural backgrounds into efficient, empowered individuals 
-                                            through the provision of quality education and holistic development.  
+                                                To transform young women from economically disadvantaged and rural backgrounds into efficient, empowered individuals
+                                                through the provision of quality education and holistic development.
                                             </p>
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -102,9 +102,9 @@
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#Expp">
                                         <div class="accordion-body">
                                             <p>
-                                            To provide higher education and skill-based training to economically and socially marginalized sections of society in and
-                                             around the neighboring districts of Madurai, enabling them to become intellectually alert, socially conscious, morally
-                                              upright, and responsible citizens.
+                                                To provide higher education and skill-based training to economically and socially marginalized sections of society in and
+                                                around the neighboring districts of Madurai, enabling them to become intellectually alert, socially conscious, morally
+                                                upright, and responsible citizens.
                                             </p>
                                         </div>
                                     </div>
@@ -112,31 +112,31 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Goal
+                                            Goal
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#Expp">
                                         <div class="accordion-body">
                                             <p>
-                                            Our educational mission is to nurture young women into becoming intellectually enlightened, spiritually inspired,
-                                             emotionally stable, morally upright, socially committed, and holistically developed individuals. These empowered 
-                                             women will serve as catalysts for social change in contemporary India.  
+                                                Our educational mission is to nurture young women into becoming intellectually enlightened, spiritually inspired,
+                                                emotionally stable, morally upright, socially committed, and holistically developed individuals. These empowered
+                                                women will serve as catalysts for social change in contemporary India.
                                             </p>
                                             <p>
-                                            In alignment with the vision of its founders, the college is dedicated to supporting underprivileged, economically
-                                             disadvantaged, and socially marginalized young women.  
+                                                In alignment with the vision of its founders, the college is dedicated to supporting underprivileged, economically
+                                                disadvantaged, and socially marginalized young women.
                                             </p>
                                             <p>
-                                            The "Auxilium Educating Community—comprising students, staff, parents, administration, affiliates, and well-wishers—works
-                                             collaboratively to achieve this mission. Each year, an ""Educative Project" is meticulously designed with active input 
-                                             from faculty, parents, and students, who remain the central focus of all educational initiatives. The college highly 
-                                             values and encourages active parental participation in the preparation and execution of this project to ensure its 
-                                             success and lasting impact.
+                                                The "Auxilium Educating Community—comprising students, staff, parents, administration, affiliates, and well-wishers—works
+                                                collaboratively to achieve this mission. Each year, an ""Educative Project" is meticulously designed with active input
+                                                from faculty, parents, and students, who remain the central focus of all educational initiatives. The college highly
+                                                values and encourages active parental participation in the preparation and execution of this project to ensure its
+                                                success and lasting impact.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -146,75 +146,69 @@
     </div>
 
     <section class="h5_blog-area h6_blog-area pt-50 pb-50">
-                <div class="container">
-                    <div class="row align-items-end mb-30">
-                        <div class="col-md-9">
-                            <div class="section-area-6 mb-30">
-                                <span class="section-subtitle">Our Management</span>
-                                <h2 class="section-title mb-0">About the Management</h2>
-                            </div>
-                        </div>
-                        
+        <div class="container">
+            <div class="row align-items-end mb-30">
+                <div class="col-md-9">
+                    <div class="section-area-6 mb-30">
+                        <span class="section-subtitle">Our Management</span>
+                        <h2 class="section-title mb-0">About the Management</h2>
                     </div>
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="h5_blog-item mb-30 active">
-                                <div class="h5_blog-content">
-                                    <div class="h5_blog-content-meta text-center">
-                                        <a href="#" class="h5_blog-content-meta-tag">Our Management</a>
-                                    </div>
-                                    <h5 class="h5_blog-content-title"><a href="">The "Salesian Sisters of Don Bosco", also known as the
-                                         "Daughters of Mary Help of Christians" (Italian: Figlie di Maria Ausiliatrice; abbreviated FMA), 
-                                         are a female religious institute founded in "1872" by "St. John Bosco" and "St. Mary Mazzarello".  </a></h5>
-                                    <h5 class="h5_blog-content-title"><a href="">As the largest congregation of women religious, the 
-                                        Salesian Sisters have over "12,000 members" serving in "97 countries" worldwide. Their mission 
-                                        is deeply rooted in bringing Christ's love to the youth through education, social outreach, and
-                                         holistic development.  </a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="h5_blog-item mb-30">
-                                <div class="h5_blog-content">
-                                    <div class="h5_blog-content-meta">
-                                        <a href="#" class="h5_blog-content-meta-tag">FMA in India</a>
-                                    </div>
-                                    <h5 class="h5_blog-content-title"><a href="blog-details.html">In "1922, the first group of six Salesian Sisters arrived
-                                         in India and established the congregation's charism in Tanjore, Tamil Nadu. Over the past century, the
-                                          Salesian Sisters have grown to over ""2,000 members, working across ""seven provinces" in India.  </a></h5>
-                                    <h5 class="h5_blog-content-title"><a href="blog-details.html">Their mission encompasses a diverse range of services, including 
-                                        educating children and youth in rural and urban schools and colleges, supporting marginalized children and youth through 
-                                        homes for street children, providing vocational education for school dropouts, and empowering marginalized women in rural
-                                         and urban communities through skill development and outreach programs. </a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                            <div class="h5_blog-item mb-30">
-                                <div class="h5_blog-content">
-                                    <div class="h5_blog-content-meta">
-                                        <a href="#" class="h5_blog-content-meta-tag">Celebrating 100 Years of Service</a>
-                                    </div>
-                                    <h5 class="h5_blog-content-title"><a href="blog-details.html">The year 2022 marked "100 years of FMA presence in India, 
-                                        a milestone commemorated by the establishment of ""Auxilium Arts and Science College for Women" in Chittampatti, 
-                                        Madurai. This centenary initiative is part of the "Province of Our Lady of Snow, Tiruchirappalli (INT)" and reflects
-                                         the congregation's commitment to empowering young women through quality education.  </a></h5>
+                </div>
 
-                                    <h5 class="h5_blog-content-title"><a href="blog-details.html">The college was officially inaugurated on "August 24, 2022",
-                                         symbolizing a century of dedicated service by the Salesian Sisters in India. Through their unwavering dedication, the 
-                                         FMA continues to transform lives, nurture dreams, and create opportunities for a brighter future for the youth and women 
-                                         of India.</a></h5>
-                                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="h4_course-item mb-30">
+                        <div class="h4_course-item-top">
+                            <div class="h4_course-item-img">
+                                <a href="course-details.html"><img src="assets/img/about/abt-1.JPG" alt=""></a>
+                            </div>
+                            <div class="h4_course-content">
+
+                                <h5 class="h4_course-content-title text-center"><a href="">Our Management</a></h5>
+                                <p style="text-align:justify;">The Salesian Sisters of Don Bosco, also known as the Daughters of Mary Help of Christians (Italian: Figlie di Maria Ausiliatrice; abbreviated FMA), are a female religious institute founded in 1872 by St. John Bosco and St. Mary Mazzarello. </p>
+                                <p style="text-align:justify; margin-bottom:0px">As the largest congregation of women religious, the Salesian Sisters have over 12,000 members serving in 97 countries worldwide. Their mission is deeply rooted in bringing Christ's love to the youth through education, social outreach, and holistic development. </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="h4_course-item mb-30">
+                        <div class="h4_course-item-top">
+                            <div class="h4_course-item-img">
+                                <a href="course-details.html"><img src="assets/img/about/fma.JPG" alt=""></a>
+                            </div>
+                            <div class="h4_course-content">
+
+                                <h5 class="h4_course-content-title text-center"><a href="">FMA in India</a></h5>
+                                <p style="text-align:justify;">In 1922, the first group of six Salesian Sisters arrived in India and established the congregation's charism in Tanjore, Tamil Nadu. Over the past century, the Salesian Sisters have grown to over 2,000 members, working across seven provinces in India.  </p>
+                                <p style="text-align:justify; margin-bottom:0px">Their mission encompasses a diverse range of services, including educating children and youth in rural and urban schools and colleges, supporting marginalized children and youth through homes for street children, providing vocational education for school dropouts, and empowering marginalized women in rural and urban communities through skill development and outreach programs.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="h4_course-item mb-30">
+                        <div class="h4_course-item-top">
+                            <div class="h4_course-item-img">
+                                <a href="course-details.html"><img src="assets/img/about/100_years.png" alt=""></a>
+                            </div>
+                            <div class="h4_course-content">
+                                <h5 class="h4_course-content-title text-center"><a href="">Celebrating 100 Years of Service</a></h5>
+                                <p style="text-align:justify;">The year 2022 marked 100 years of FMA presence in India, a milestone commemorated by the establishment of Auxilium Arts and Science College for Women in Chittampatti, Madurai. This centenary initiative is part of the Province of Our Lady of Snow, Tiruchirappalli (INT) and reflects the congregation's commitment to empowering young women through quality education.  </p>
+                                <p style="text-align:justify; margin-bottom:0px">The college was officially inaugurated on August 24, 2022, symbolizing a century of dedicated service by the Salesian Sisters in India. Through their unwavering dedication, the FMA continues to transform lives, nurture dreams, and create opportunities for a brighter future for the youth and women of India.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- teacher area end -->
 
 
 
-    
+
 </main>
 
 <!-- footer area start -->

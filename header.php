@@ -81,23 +81,33 @@
                                                 <li><a href="treasure_msg.php">Treasure's Message</a></li>
                                             </ul>
                                         </li>
+                                        <li class="menu-has-child">
+                                            <a href="">Academic</a> 
+                                            <ul class="submenu">
+                                                <li><a href="programs_offered.php">Programs Offered</a></li>
+                                                <li><a href="salient_features.php">Salient Features</a></li>
+                                                <li><a href="principal_msg.php">Affiliation Details</a></li>
+                                                <li><a href="president_msg.php">Why Choose Us</a></li>
+                                                <li><a href="treasure_msg.php">Placement Details</a></li>
+                                            </ul>
+                                        </li>
                                         <li>
-                                            <a href="#">Facilities</a>
+                                            <a href="facilities.php">Facilities</a>
                                         </li>
                                         <li>
                                             <a href="#">Curriculum</a>
                                         </li>
                                         <li>
-                                            <a href="#">Admission</a>
+                                            <a href="admission.php">Admission</a>
                                         </li>
                                         <li>
-                                            <a href="#">Gallery </a>
+                                            <a href="gallery.php">Gallery </a>
                                         </li>
                                         <li>
-                                            <a href="#">Careers </a>
+                                            <a href="career.php">Careers </a>
                                         </li>
 
-                                        <li><a href="contact.html">Contact us</a></li>
+                                        <li><a href="contact.php">Contact us</a></li>
                                     </ul>
                                 </nav>
                             </div>

@@ -305,7 +305,16 @@ $('.popup-image').magnificPopup({
 
 /* magnificPopup video view */
 $('.popup-video').magnificPopup({
-	type: 'iframe'
+	type: 'iframe',
+	iframe: {
+		patterns: {
+			youtube: {
+				index: 'youtube.com/', // Identifies YouTube links
+				id: 'v=',
+				src: 'https://www.youtube.com/embed/JiX26BckmJc?autoplay=1' // Embeds the video
+			}
+		}
+	}
 });
 
 $('.has-nice-select, .contact-form select').niceSelect();
