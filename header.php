@@ -30,7 +30,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-8">
                         <div class="sidebar-logo">
-                            <a href="index.html"><img src="assets/img/logo/logo.png" alt="logo-img"></a>
+                            <a href="index.php"><img src="assets/img/logo/logo.png" alt="logo-img"></a>
                             
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-4 col-sm-7 col-10">
                             <div class="h6_header-logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                                 <div class="logo-text text-center">
                                     <h6 >AUXILIUM ARTS & SCIENCE COLLEGE FOR WOMEN</h6>
                                     <p>(Affiliated to Madurai Kamaraj University)</p>
@@ -86,16 +86,21 @@
                                             <ul class="submenu">
                                                 <li><a href="programs_offered.php">Programs Offered</a></li>
                                                 <li><a href="salient_features.php">Salient Features</a></li>
-                                                <li><a href="principal_msg.php">Affiliation Details</a></li>
-                                                <li><a href="president_msg.php">Why Choose Us</a></li>
-                                                <li><a href="treasure_msg.php">Placement Details</a></li>
+                                                <li><a href="affiliation-detail.php">Affiliation Details</a></li>
+                                                <li><a href="why_choose_us.php">Why Choose Us</a></li>
+                                                <li><a href="placement_detail.php">Placement Details</a></li>
                                             </ul>
                                         </li>
                                         <li>
                                             <a href="facilities.php">Facilities</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Curriculum</a>
+                                        <li class="menu-has-child">
+                                            <a href="">Curriculum</a> 
+                                            <ul class="submenu">
+                                                <li><a href="courses.php">Our Courses</a></li>
+                                                <li><a href="extra-curricular.php">Extra-Curricular activities</a></li>
+                                                
+                                            </ul>
                                         </li>
                                         <li>
                                             <a href="admission.php">Admission</a>

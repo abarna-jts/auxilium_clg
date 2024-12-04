@@ -58,7 +58,7 @@
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Spacious Classrooms</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Spacious Classrooms</a></h4>
                                 <p>Well-designed classrooms with ample space and comfortable seating arrangements to provide an optimal learning environment</p>
 
                             </div>
@@ -67,12 +67,12 @@
                     <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" role="group" aria-label="2 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/smart-class-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Smart Classrooms</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Smart Classrooms</a></h4>
                                 <p>Classrooms equipped with smart interactive panels, enabling modern teaching methodologies and an enhanced learning experience.  </p>
                                
                             </div>
@@ -81,12 +81,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/canteen-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Canteen and Cafeteria</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Canteen and Cafeteria</a></h4>
                                 <p>A canteen and cafeteria have been set up to offer a relaxing space for students and staff to unwind and enjoy refreshments during breaks.</p>
                                 
                             </div>
@@ -95,12 +95,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/academic-block.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Academic Block</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Academic Block</a></h4>
                                 <p>The ground floor of the new Academic Block was inaugurated on July 24, 2023, in the presence of Mother Provincial Sr. Majella Fernando and Most Rev. Anthony Pappusamy D.D., Archbishop of Madurai.  </p>
                                 
                             </div>
@@ -109,12 +109,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/hostel-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Hostel Facilities</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Hostel Facilities</a></h4>
                                 <p>Auxilium Hostel, offering safe and comfortable accommodation for students from other districts, fostering a home-away-from-home experience.</p>
                                 
                             </div>
@@ -123,12 +123,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/staff_room-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Staff Rooms</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Staff Rooms</a></h4>
                                 <p>Comfortable and well-furnished *staff rooms* designed to provide a conducive environment for faculty preparation and collaboration.</p>
                                 
                             </div>
@@ -138,12 +138,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/hall-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Multipurpose Hall</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Multipurpose Hall</a></h4>
                                 <p>A multipurpose hall equipped with advanced audio equipment, suitable for seminars, workshops, and cultural events.</p>
                                 
                             </div>
@@ -153,12 +153,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/office-room.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Office Room</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Office Room</a></h4>
                                 <p>An office room with internet access to facilitate administrative functions efficiently.  </p>
                                 
                             </div>
@@ -168,12 +168,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/library-1.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Comprehensive Library</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Comprehensive Library</a></h4>
                                 <p>A well-stocked library offering a wide range of academic and reference materials to support research and learning.  </p>
                                 
                             </div>
@@ -183,12 +183,12 @@
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" role="group" aria-label="3 / 3" style="width: 410px; margin-right: 30px;">
                         <div class="h8_blog-item" id="cs-lab">
                             <div class="h8_blog-item-img w_img">
-                                <a href="blog-details.html">
+                                <a href=" ">
                                     <img src="assets/img/facilities/cs-lab.png" alt="">
                                 </a>
                             </div>
                             <div class="h8_blog-item-content">
-                                <h4 class="h8_blog-item-content-title"><a href="blog-details.html">Computer Lab</a></h4>
+                                <h4 class="h8_blog-item-content-title"><a href=" ">Computer Lab</a></h4>
                                 <p>A fully furnished computer lab, equipped with updated systems and software to support practical learning and skill development.  </p>
                                 
                             </div>

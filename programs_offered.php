@@ -57,7 +57,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Arts in Tamil (B.A. Tamil)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Arts in Tamil (B.A. Tamil)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Tamil at Auxilium Arts and Science College for Women is dedicated to preserving and promoting the rich heritage, culture, and literary excellence of the Tamil language.                                                 
@@ -79,7 +79,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Arts in History (B.A. History)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Arts in History (B.A. History)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of History at Auxilium Arts and Science College for Women is committed to fostering a deep understanding of historical events, cultures, and civilizations.  
@@ -101,7 +101,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Arts in Economics (B.A. Economics)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Arts in Economics (B.A. Economics)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Economics at Auxilium Arts and Science College for Women is dedicated to equipping students with a strong foundation in economic theory, policy, and application. 
@@ -123,7 +123,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Commerce (B.Com)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Commerce (B.Com)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Commerce at Auxilium Arts and Science College for Women is dedicated to developing skilled professionals with a strong foundation in business, finance, and entrepreneurship. 
@@ -144,7 +144,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Computer Applications (B.C.A.)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Computer Applications (B.C.A.)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Computer Applications at Auxilium Arts and Science College for Women is committed to nurturing future technology professionals and innovators. 
@@ -166,7 +166,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Bachelor of Science in Computer Science (B.Sc. Computer Science)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Bachelor of Science in Computer Science (B.Sc. Computer Science)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Computer Science at Auxilium Arts and Science College for Women is dedicated to preparing students for the dynamic and rapidly evolving field of technology. 
@@ -280,7 +280,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Master of Arts in English (M.A. English)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Master of Arts in English (M.A. English)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of English at Auxilium Arts and Science College for Women is committed to fostering advanced linguistic, literary, and critical thinking skills.
@@ -290,7 +290,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -303,7 +303,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Master of Commerce (M.Com)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Master of Commerce (M.Com)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Department of Commerce at Auxilium Arts and Science College for Women is dedicated to nurturing advanced knowledge in business, finance, and commerce. 
@@ -313,7 +313,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -336,7 +336,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -355,7 +355,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Diploma in Tally</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Tally</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Diploma in Tally is a professional program designed to equip students with comprehensive knowledge of Tally ERP software, widely used for accounting and financial management in businesses. 
@@ -365,7 +365,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -378,7 +378,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Diploma in Computer Application (DCA)</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Computer Application (DCA)</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Diploma in Computer Application (DCA) is a professional program that provides foundational knowledge and practical skills in computer applications. 
@@ -388,7 +388,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -401,7 +401,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Diploma in Fashion Technology</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Fashion Technology</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Diploma in Fashion Technology is a comprehensive program designed to provide students with the knowledge and skills needed to excel in the dynamic and creative field of fashion.
@@ -411,7 +411,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -424,7 +424,7 @@
                                             </div>
                                             <div class="h2_course-content">
                                                 
-                                                <h5 class="h2_course-content-title"><a href="course-details.html">Diploma in Beautician</a></h5>
+                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Beautician</a></h5>
                                                 
                                                 <p class="h2_course-content-text">
                                                 The Diploma in Beautician is a professional program designed to provide students with the knowledge and skills required to excel in the beauty and wellness industry. 
@@ -434,7 +434,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="course-details.html">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>

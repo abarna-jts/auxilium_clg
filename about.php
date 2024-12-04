@@ -161,7 +161,7 @@
                     <div class="h4_course-item mb-30">
                         <div class="h4_course-item-top">
                             <div class="h4_course-item-img">
-                                <a href="course-details.html"><img src="assets/img/about/abt-1.JPG" alt=""></a>
+                                <a href=""><img src="assets/img/about/abt-1.JPG" alt=""></a>
                             </div>
                             <div class="h4_course-content">
 
@@ -176,7 +176,7 @@
                     <div class="h4_course-item mb-30">
                         <div class="h4_course-item-top">
                             <div class="h4_course-item-img">
-                                <a href="course-details.html"><img src="assets/img/about/fma.JPG" alt=""></a>
+                                <a href=""><img src="assets/img/about/fma.JPG" alt=""></a>
                             </div>
                             <div class="h4_course-content">
 
@@ -191,7 +191,7 @@
                     <div class="h4_course-item mb-30">
                         <div class="h4_course-item-top">
                             <div class="h4_course-item-img">
-                                <a href="course-details.html"><img src="assets/img/about/100_years.png" alt=""></a>
+                                <a href=""><img src="assets/img/about/100_years.png" alt=""></a>
                             </div>
                             <div class="h4_course-content">
                                 <h5 class="h4_course-content-title text-center"><a href="">Celebrating 100 Years of Service</a></h5>

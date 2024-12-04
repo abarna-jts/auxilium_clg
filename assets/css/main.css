@@ -1815,7 +1815,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   --clr-common-lightBlack: #38383A;
   --clr-common-darkBlack: #000000;
   --clr-body-heading: #1d3e7b;
-  --clr-body-text: rgba(30, 30, 30, 0.6);
+  --clr-body-text: rgb(30 30 30 / 81%);
   --clr-color-lightBlue: #BBE8EB;
   --clr-color-darkPink: #D2093C;
   --clr-color-lightPink: #F7ECF9;
@@ -6074,8 +6074,22 @@ input:focus::placeholder, textarea:focus::placeholder {
     font-weight: 500;
   }
 }
+.extra-curricular{
+  height: 350px !important;
+}
+.h9_blog-item-list li i{
+  background: linear-gradient(#00adef, #79aedf);
+    display: inline-grid;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: #fff;
+    place-items: center;
+    font-size: 10px;
+    margin-right:5px;
+}
 .section-area-8 .section-title {
-  color: #021936;
+  color: #1d3f7e;
   font-size: 40px;
   font-weight: 600;
   line-height: 1.2;
@@ -7650,7 +7664,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   opacity: 1;
 }
 .h2_course-bottom-btn a:hover {
-  color: var(--clr-theme-primary);
+  color: #9ee4ff;
 }
 
 .h2_course-tab .nav {
@@ -8433,6 +8447,9 @@ footer p{
   margin-right: 2px;
 
 }
+.extra-curricular{
+  height: 370px !important;
+}
 .announcements-wrap {
   
   height: 73% !important;
@@ -8446,6 +8463,11 @@ footer p{
 }
 .h2_course-content-title {
   height: 65px;
+}
+.placement-section .h6_about-img {
+  padding-bottom: 0px;
+  height: 90%;
+    display: flex;
 }
 }
 
@@ -13009,10 +13031,13 @@ footer p{
   font-size: 20px;
   font-weight: 600;
   line-height: 1.5;
-  margin-bottom: 27px;
+  margin: 5px 0px;
+}
+.blog-content p{
+  text-align: justify;
 }
 .blog-content-title:hover a {
-  color: var(--clr-theme-primary);
+  color: #00adef;
 }
 .blog-content-meta {
   display: flex;
@@ -13031,7 +13056,9 @@ footer p{
   font-weight: 300;
   color: var(--clr-color-darkPink);
 }
-
+.blog-content .h6_about-btn {
+  margin:0px 0px 10px ;
+}
 .blog-item.blog-item-h {
   display: flex;
   align-items: center;
@@ -17541,6 +17568,10 @@ marquee {
     max-width: 100%;
   }
 }
+.placement-section .h6_about-img {
+  padding-bottom: 0px;
+ }
+
 .h3_admission-content span {
   display: flex;
   align-items: center;
@@ -17556,6 +17587,7 @@ marquee {
   color: rgba(30, 30, 30, 0.7);
   letter-spacing: 0.15px;
   margin-bottom: 10px;
+  text-align: justify;
 }
 .h3_admission-content span i {
   background: linear-gradient(#00adef, #79aedf);
