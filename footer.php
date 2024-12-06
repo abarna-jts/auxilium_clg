@@ -26,16 +26,16 @@
                                     <div class="h6_footer-widget-list">
                                         <div class="h6_footer-widget-list-ul">
                                             <ul>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">About Us</a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Academic</a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Facilities</a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Curriculum</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="about.php">About Us</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="programs_offered.php">Academic</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="facilities.php">Facilities</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="ug_courses.php">Curriculum</a></li>
                                             </ul>
                                             <ul>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Admission</a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Gallery</a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Careers </a></li>
-                                                <li><i class="fa-light fa-arrow-right"></i><a href="#">Contact us</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="admission.php">Admission</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="gallery.php">Gallery</a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="career.php">Careers </a></li>
+                                                <li><i class="fa-light fa-arrow-right"></i><a href="contact.php">Contact us</a></li>
                                             </ul>
                                         </div>
                                         

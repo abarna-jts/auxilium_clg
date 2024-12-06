@@ -68,7 +68,7 @@
                             <div class="h6_header-middle">
                                 <nav class="h6_main-menu mobile-menu" id="mobile-menu">
                                     <ul>
-                                        <li class="active">
+                                        <li>
                                             <a href="index.php">Home</a>
                                         </li>
                                         <li class="menu-has-child">
@@ -96,9 +96,16 @@
                                         </li>
                                         <li class="menu-has-child">
                                             <a href="">Curriculum</a> 
-                                            <ul class="submenu">
-                                                <li><a href="courses.php">Our Courses</a></li>
-                                                <li><a href="extra-curricular.php">Extra-Curricular activities</a></li>
+                                            <ul class="submenu course-submenu">
+                                                <li><a href="">Our Courses</a>
+                                                <ul class="submenu-right">
+                                                    <li><a href="ug_courses.php">UG Courses</a></li>
+                                                    <li><a href="master_course.php">Master Courses</a></li>
+                                                    <li><a href="diploma.php">Diploma</a></li>
+                                                </ul>                                            
+                                                </li>
+                                               
+                                                <li class="course-2"><a href="extra-curricular.php">Extra-Curricular activities</a></li>
                                                 
                                             </ul>
                                         </li>

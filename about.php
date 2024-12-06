@@ -145,7 +145,7 @@
         </div>
     </div>
 
-    <section class="h5_blog-area h6_blog-area pt-50 pb-50">
+    <section class="h5_blog-area h6_blog-area pt-50 pb-50 about_blog">
         <div class="container">
             <div class="row align-items-end mb-30">
                 <div class="col-md-9">

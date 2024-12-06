@@ -67,7 +67,7 @@
                             girls and women from marginalized backgrounds by providing them with quality higher education and
                             fostering opportunities for personal and professional growth. </p>
                         <!-- <p>Auxilium Arts and Science College for Women is affiliated with "Madurai Kamaraj University" and began its inaugural academic year on August 24, 2022</p> -->
-                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                        <a href="about.php" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="h6_program-item mb-30">
                         <div class="h6_program-item-img w_img">
@@ -100,7 +100,7 @@
                         <div class="h6_program-item-content">
                             <div class="h6_program-item-content-info">
                                 <h4 class="h6_program-item-content-info-title"><a href="#">Undergraduate Programs</a></h4>
-                                <a href="#" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
+                                <a href="ug_courses.php" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
                             </div>
                             <div class="h6_program-item-content-icon">
                                 <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -137,7 +137,7 @@
                         <div class="h6_program-item-content">
                             <div class="h6_program-item-content-info">
                                 <h4 class="h6_program-item-content-info-title"><a href="#">Master's Graduate Courses</a></h4>
-                                <a href="#" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
+                                <a href="master_course.php" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
                             </div>
                             <div class="h6_program-item-content-icon">
                                 <svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -155,7 +155,7 @@
                         <div class="h6_program-item-content">
                             <div class="h6_program-item-content-info">
                                 <h4 class="h6_program-item-content-info-title"><a href="#">Diploma Courses</a></h4>
-                                <a href="#" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
+                                <a href="diploma.php" class="h6_program-item-content-info-link">Read More<i class="fa-light fa-arrow-up-right"></i></a>
                             </div>
                             <div class="h6_program-item-content-icon">
                                 <svg width="36" height="48" viewBox="0 0 36 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -792,7 +792,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="h5_category-section-button mb-40 text-md-end">
-                        <a href="#" class="theme-btn theme-btn-medium theme-btn-5">View All Photos</a>
+                        <a href="gallery.php" class="theme-btn theme-btn-medium theme-btn-5">View All Photos</a>
                     </div>
                 </div>
             </div>

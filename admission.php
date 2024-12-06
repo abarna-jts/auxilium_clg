@@ -22,7 +22,7 @@
 
 
     <section class="h3_admission-area pt-50">
-        <img src="assets//img/admission/admission.png" alt="" class="h3_admission-bg">
+        <!-- <img src="assets/img/admission/admission.png" alt="" class="h3_admission-bg"> -->
 
         <div class="container">
             <div class="row">
@@ -81,59 +81,59 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-6 d-flex align-items-center">
+                <div class="col-xl-6 col-lg-6 d-flex align-items-center justify-content-end">
                     <div class="h3_admission-form mb-50">
                         <h5 class="h3_admission-form-title">Admissions</h5>
-                        <form action="#">
+                        <form action="admission_mail.php" method="post">
                             <div class="row g-15">
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="First Name">
+                                        <input type="text" name="fname" placeholder="First Name">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="Last Name">
+                                        <input type="text" name="lname" placeholder="Last Name">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="email" placeholder="Email">
+                                        <input type="email" name="email" placeholder="Email">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="Phone">
+                                        <input type="text" name="phone" placeholder="Phone">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="Street Address">
+                                        <input type="text" name="address" placeholder="Street Address">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="City">
+                                        <input type="text" name="city" placeholder="City">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="State">
+                                        <input type="text" name="state" placeholder="State">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-sm-6">
                                     <div class="h3_admission-form-input">
-                                        <input type="text" placeholder="Zip Code">
+                                        <input type="text" name="zip_code" placeholder="Zip Code">
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="h3_admission-form-input">
-                                        <input type="date">
+                                        <input type="date" name="date">
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="h3_admission-form-input">
-                                        <textarea name="message" placeholder="Academic Qualifications"></textarea>
+                                        <textarea name="msg" placeholder="Academic Qualifications"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-12">

@@ -21,7 +21,7 @@
     </section>
 
 
-    <section class="h8_blog-area pt-110 pb-30">
+    <section class="h8_blog-area pt-110 pb-30 facilities_block">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-8 col-lg-8 col-md-8">

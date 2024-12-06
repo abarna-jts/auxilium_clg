@@ -1,6 +1,12 @@
 <?php include("header.php"); ?>
         <!-- header area end -->
 
+        <style>
+            .contact-wrap{
+                background-color: #fff;
+            }
+        </style>
+
         <main>
             <!-- breadcrumb area start -->
             <section class="breadcrumb-area bg-default" data-background="assets/img/bg/inner-banner.png">
@@ -29,30 +35,30 @@
                             <div class="col-xl-8 col-md-8">
                                 <div class="contact-content pr-80 mb-20">
                                     <h3 class="contact-title mb-25">Send Me Message</h3>
-                                    <form action="#" class="contact-form">
+                                    <form action="contact_mail.php" method="post" class="contact-form">
                                         <div class="row">
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Your Name" required>
+                                                    <input type="text" placeholder="Your Name" name="name" required >
                                                     <span class="inner-icon"><i class="fa-thin fa-user"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="email" placeholder="Email Address" required>
+                                                    <input type="email" placeholder="Email Address" name="email" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-envelope"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Your Number" required>
+                                                    <input type="text" placeholder="Your Number" name="phone" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-phone-volume"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6 ">
                                                 <div class="contact-form-input">
                                                     <span class="inner-icon inner-icon-select"><i class="fa-thin fa-circle-exclamation"></i></span>
-                                                    <select name="select" class="contact-form-list has-nice-select mb-30" required>
+                                                    <select name="course" class="contact-form-list has-nice-select mb-30" required>
                                                         <option value="1">Select Subject</option>
                                                         <option value="2">Undergraduate Programs</option>
                                                         <option value="3">Master's Graduate Courses</option>
@@ -63,14 +69,14 @@
                                             </div>
                                             <div class="col-12">
                                                 <div class="contact-form-input mb-50 contact-form-textarea">
-                                                    <textarea name="message" cols="30" rows="10" placeholder="Feel free to get in touch!" required></textarea>
+                                                    <textarea name="msg" cols="30" rows="10" placeholder="Feel free to get in touch!" required></textarea>
                                                     <span class="inner-icon"><i class="fa-thin fa-pen"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-12">
                                                 <div class="contact-form-submit mb-30">
                                                     <div class="contact-form-btn">
-                                                        <a href="#" class="theme-btn contact-btn">Send Message</a>
+                                                        <input type="submit" class="theme-btn contact-btn"/>
                                                     </div>
                                                     
                                                 </div>
@@ -117,6 +123,8 @@
 
             
         </main>
+
+        
 
         <!-- footer area start -->
         <?php include("footer.php"); ?>

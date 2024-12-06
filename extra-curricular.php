@@ -21,10 +21,10 @@
     </section>
 
 
-    <section class="h8_blog-area pt-110 pb-30">
+    <section class="h8_blog-area pt-50 pb-30">
         <div class="container">
             <div class="row align-items-center justify-content-center text-center">
-                <div class="col-xl-8 col-lg-8 col-md-8">
+                <div class="col-xl-8 col-lg-8 col-md-8 extra-curricular-header">
                     <div class="section-area-8 mb-20">
                         <span class="section-subtitle">Our College</span>
                         <h2 class="section-title mb-10">Extra-Curricular Activities</h2>
@@ -33,7 +33,7 @@
                 </div>
                 
             </div>
-            <div class="blog-active-8 pb-80 pt-30">
+            <div class="blog-active-8 pb-80 pt-30 extra-curricular">
                 
                     <div class="row">
                         <div class="col-md-4">

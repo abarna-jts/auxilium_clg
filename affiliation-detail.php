@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
-                    <div class="h6_about-content ml-30 mb-30 mb-md-0 pb-30">
+                    <div class="h6_about-content ml-30 mb-md-0">
                         <h3 class="h6_about-content-title">About Madurai Kamaraj University</h3>
                         <p>Madurai Kamaraj University is a public university located in Madurai, Tamil Nadu. Recognized by the
                             University Grants Commission (UGC), the university has built a reputation for fostering innovation, research, and
@@ -39,7 +39,7 @@
                             and intellectual growth. </p>
                         <p>Auxilium Arts and Science College for Women is proudly affiliated with Madurai Kamaraj University,
                             a prestigious institution renowned for its academic excellence and dedication to advancing higher education. </p>
-                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                        <a href="https://mkuniversity.ac.in/new/" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
                     </div>
                 </div>
             </div>

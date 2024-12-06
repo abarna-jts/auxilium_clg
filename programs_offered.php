@@ -19,7 +19,7 @@
     </section>
 
 
-    <section class="h2_course-area pt-110 pb-120 course_class">
+    <section class="h2_course-area pt-50 pb-50 course_class">
                 <div class="container">
                     <div class="row align-items-end">
                         <div class="col-xl-5 col-lg-6">
@@ -67,7 +67,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -88,7 +88,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -110,7 +110,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -132,7 +132,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -153,7 +153,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -175,7 +175,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -197,7 +197,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -219,7 +219,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -241,7 +241,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -263,7 +263,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -290,7 +290,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="master_course.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -313,7 +313,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="master_course.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -336,7 +336,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="master_course.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -346,7 +346,7 @@
                                     
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="pills-four" role="tabpanel" aria-labelledby="pills-four-tab" tabindex="0">
+                            <div class="tab-pane fade diploma_class" id="pills-four" role="tabpanel" aria-labelledby="pills-four-tab" tabindex="0">
                                 <div class="row">
                                     <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                         <div class="h2_course-item mb-30">
@@ -365,34 +365,13 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="diploma.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                                        <div class="h2_course-item mb-30">
-                                            <div class="h2_course-item-img">
-                                                <a href=""><img src="assets/img/course/diploma/dca.png" alt=""></a>
-                                            </div>
-                                            <div class="h2_course-content">
-                                                
-                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Computer Application (DCA)</a></h5>
-                                                
-                                                <p class="h2_course-content-text">
-                                                The Diploma in Computer Application (DCA) is a professional program that provides foundational knowledge and practical skills in computer applications. 
-                                                </p>
-                                                
-                                            </div>
-                                            <div class="h2_course-content-bottom">
-                                                
-                                                <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
 
                                     <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                         <div class="h2_course-item mb-30">
@@ -411,7 +390,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="diploma.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -434,7 +413,30 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href=" ">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="diploma.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                        <div class="h2_course-item mb-30">
+                                            <div class="h2_course-item-img">
+                                                <a href=""><img src="assets/img/course/diploma/dca.png" alt=""></a>
+                                            </div>
+                                            <div class="h2_course-content">
+                                                
+                                                <h5 class="h2_course-content-title"><a href=" ">Diploma in Computer Application (DCA)</a></h5>
+                                                
+                                                <p class="h2_course-content-text">
+                                                The Diploma in Computer Application (DCA) is a professional program that provides foundational knowledge and practical skills in computer applications. 
+                                                </p>
+                                                
+                                            </div>
+                                            <div class="h2_course-content-bottom">
+                                                
+                                                <div class="h2_course-bottom-btn">
+                                                    <a href="diploma.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>

@@ -21,62 +21,62 @@
             </section>
 
 
-            <section class="contact-area pt-50">
+            <section class="contact-area pt-50 career-area">
                 <div class="container">
                     
                         <div class="row justify-content-center">
                             <div class="col-xl-8">
                             <div class="contact-wrap career-wrap">
                             <div class="col-xl-12 col-md-12">
-                                <div class="contact-content pr-80 mb-20 career-content">
+                                <div class="contact-content pr-10 mb-20 career-content">
                                     <h3 class="contact-title mb-25">Choose Your Career Here</h3>
-                                    <form action="#" class="contact-form">
+                                    <form action="career-mail.php" class="contact-form" method="post">
                                         <div class="row">
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Your Name" required>
+                                                    <input type="text" name="name" placeholder="Your Name" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-user"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="email" placeholder="Qualification" required>
+                                                    <input type="text" name="qualification" placeholder="Qualification" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-envelope"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Email" required>
+                                                    <input type="email" name="email" placeholder="Email" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-envelope"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Phone Number" required>
+                                                    <input type="number" name="phone" placeholder="Phone Number" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-phone-volume"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Experience" required>
+                                                    <input type="text" name="exp" placeholder="Experience" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-briefcase"></i></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Salary" required>
+                                                    <input type="number" name="salary" placeholder="Salary" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-indian-rupee-sign"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-12">
                                                 <div class="contact-form-input mb-30">
-                                                    <input type="text" placeholder="Address" required>
+                                                    <input type="text" name="address" placeholder="Address" required>
                                                     <span class="inner-icon"><i class="fa-thin fa-location-dot"></i></span>
                                                 </div>
                                             </div>
                                             <div class="col-12">
                                                 <div class="contact-form-input mb-50">
-                                                    <label for="resume-upload" class="form-label">Upload Your Resume</label>
+                                                    <label for="resume-upload" name="resume" class="form-label">Upload Your Resume</label>
                                                     <input 
                                                         type="file" 
                                                         id="resume-upload" 
@@ -84,14 +84,14 @@
                                                         class="form-control" 
                                                         accept=".pdf,.doc,.docx" 
                                                         required
-                                                        style=" height: 37px;line-height: 37px;"
+                                                        style=" height: 45px;line-height: 23px;"
                                                     />
                                                     
                                                 </div>
                                             </div>
                                             <div class="col-12">
                                                 <div class="contact-form-input mb-50 contact-form-textarea">
-                                                    <textarea name="message" cols="30" rows="10" placeholder="Feel free to get in touch!" required></textarea>
+                                                    <textarea name="msg" cols="30" rows="10" placeholder="Feel free to get in touch!" required></textarea>
                                                     <span class="inner-icon"><i class="fa-thin fa-pen"></i></span>
                                                 </div>
                                             </div>
@@ -99,7 +99,7 @@
                                             <div class="col-12">
                                                 <div class="contact-form-submit career-form-submit mb-30">
                                                     <div class="contact-form-btn">
-                                                        <a href="#" class="theme-btn contact-btn">Send</a>
+                                                        <input type="submit" class="theme-btn contact-btn" />
                                                     </div>
                                                     
                                                 </div>

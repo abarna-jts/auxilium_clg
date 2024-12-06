@@ -40,7 +40,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="">Professional Counselor and Psychotherapist</a></h5>
                                         <p>A dedicated professional counselor and psychotherapist is available to support the mental health and well-being of both students and staff. This service ensures a safe and supportive environment for addressing personal, academic, and emotional challenges.</p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -51,7 +51,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Hostel Accommodation</a></h5>
                                         <p>Auxilium Hostel provides secure and comfortable accommodation for students from other districts, fostering a nurturing and supportive community.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -62,7 +62,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Transport Facility</a></h5>
                                         <p>The college offers a transport facility to ensure safe and convenient travel for students commuting from nearby villages and towns.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -73,7 +73,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Playground for Track and Field Sports</a></h5>
                                         <p>A spacious playground is available for students to engage in track and field activities, promoting physical fitness and a healthy lifestyle.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -84,7 +84,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Canteen for Students and Staff</a></h5>
                                         <p>A well-maintained canteen provides hygienic and affordable refreshments for students and staff, creating a relaxed space for breaks and informal interactions.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -95,7 +95,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Good Ventilation and Lighting</a></h5>
                                         <p>The campus is designed with excellent ventilation and natural lighting, ensuring a comfortable and conducive environment for learning and activities.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -106,7 +106,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">State-of-the-Art Computer Lab</a></h5>
                                         <p>The college features a modern computer lab equipped with the latest technology and software, enabling students to gain practical skills and hands-on experience.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -117,7 +117,7 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Versatile Multipurpose Hall</a></h5>
                                         <p>The multipurpose hall is equipped with advanced audio-visual systems, making it ideal for hosting seminars, cultural events, workshops, and other academic and extracurricular activities.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
@@ -128,18 +128,18 @@
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Dedicated Counseling Room</a></h5>
                                         <p>A specially designated counseling room provides a private and welcoming space for students to discuss their concerns with the counselor in a confidential setting.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="blog-item blog-item-h mb-30">
                                     <div class="blog-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/1/blog-2.jpg" alt=""></a>
+                                        <a href="blog-details.html"><img src="assets/img/feature/feature-10.png" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                         
                                         <h5 class="blog-content-title"><a href="blog-details.html">Activity Room for Events and Programs</a></h5>
                                         <p>A flexible activity room is available for various events, programs, and co-curricular activities, encouraging creativity, teamwork, and engagement among students.  </p>
-                                        <a href="#" class="h6_about-btn theme-btn theme-btn-medium theme-btn-6">Learn More<i class="fa-light fa-arrow-up-right"></i></a>
+                                        
                                     </div>
                                 </div>
                             </div>

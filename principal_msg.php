@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
-                    <div class="h7_about-img w_img mb-25 image-container">
+                    <div class="h7_about-img w_img image-container" >
                         <img src="assets/img/about/principal_img.JPG" alt="">
                         <div class="image-title">
                             <h5>Dr. Sr. Saveriammal V</h5>
