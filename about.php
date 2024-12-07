@@ -20,7 +20,7 @@
     <!-- breadcrumb area end -->
 
     <!-- about area start -->
-    <section class="h7_about-area pt-50 pb-50">
+    <section class="h7_about-area pt-50 pb-50 about_us_section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
@@ -62,12 +62,12 @@
     <!-- about area end -->
 
     <!-- teacher area start -->
-    <div class="h4_faq-area pt-50 pb-50" style="background:#00adef73;">
+    <div class="h4_faq-area pt-50 pb-50" style="background:#92E1FF;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="h4_faq-img w_img mb-50">
-                        <img src="assets/img/about/vission_mission.png" alt="">
+                        <img src="assets/img/about/v_m_img.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -156,7 +156,7 @@
                 </div>
 
             </div>
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="h4_course-item mb-30">
                         <div class="h4_course-item-top">

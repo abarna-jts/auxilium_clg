@@ -2,7 +2,7 @@
             <div class="footer-top pt-50 pb-40">
                 <div class="container">
                    <div class="row justify-content-between">
-                        <div class="col-xl-3 col-lg-3 col-md-5">
+                        <div class="col-xl-3 col-lg-5 col-md-5">
                             <div class="h6_footer-widget mb-10">
                                 <h5 class="h6_footer-widget-title">About Us</h5>
                                 <p class="h6_footer-widget-text">
@@ -52,10 +52,10 @@
                                     <h5 class="h6_footer-widget-title">Our information</h5>
                                     <div class="h6_footer-widget-list">
                                         <ul>
-                                            <li><i class="fa-light fa-location-dot"></i><a href="#">Thamarapatti Bit (II) Village, Madurai East Taluk, Madurai – 625122</a></li>
-                                            <li><i class="fa-light fa-phone"></i><a href="#">9487842386 ,9025682789</a></li>
-                                            <li><i class="fa-light fa-envelope"></i><a href="#">info@aascw.ac.in, admissions@aascw.ac.in</a></li>
-                                            <li><i class="fa-light fa-globe"></i><a href="#">www.aascw.ac.in</a></li>
+                                            <li><i class="fa-light fa-location-dot"></i><a href="https://maps.app.goo.gl/4YS1VDZW9T9Mh1C77">Thamarapatti Bit (II) Village, Madurai East Taluk, Madurai – 625122</a></li>
+                                            <li class="text-white"><i class="fa-light fa-phone"></i><a href="tel:+919487842386">9487842386</a> , <a href="tel:+919025682789">9025682789</a></li>
+                                            <li class="text-white"><i class="fa-light fa-envelope"></i><a href="mailto:info@aascw.ac.in">info@aascw.ac.in</a> , <a href="mailto:admissions@aascw.ac.in">admissions@aascw.ac.in</a></li>
+                                            <li><i class="fa-light fa-globe"></i><a href="index.php">www.aascw.ac.in</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@
                             
                         </div>
                         
-                        <div class="col-xl-3 col-lg-4 col-md-5">
+                        <div class="col-xl-3 col-lg-5 col-md-5">
                             <div class="h6_footer-widget last-footer-section mb-10">
                                 <h5 class="h6_footer-widget-title">Qr Code scan</h5>
                                 <p class="h6_footer-widget-text newsletter-text">Scan the QR code below to view the location on Google Maps.</p>

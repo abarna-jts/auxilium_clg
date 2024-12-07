@@ -221,8 +221,12 @@
     }
 
     @media(max-width:768px) {
+        
         .box .card {
             flex-direction: column;
+        }
+        .box{
+            padding: 15px;
         }
 
         .card .list {

@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
                     <div class="h6_about-img w_img">
-                        <img src="assets/img/about/abt-1.JPG" alt="">
+                        <img src="assets/img/about/abt-1.jpg" alt="">
                         <div class="h6_about-img-content">
                             <h2>2022</h2>
                             <span>Establish</span>
@@ -174,10 +174,10 @@
 
 
     <!-- tuition area start -->
-    <section class="h6_tuition-area pt-50 pb-50">
+    <section class="h6_tuition-area pt-50 pb-50 news_event">
         <div class="container">
             <div class="row g-0 justify-content-between">
-                <div class="col-xl-5">
+                <div class="col-xl-5 news_section">
                     <div class="section-area-6 text-center">
                         <h2 class="section-title mb-15">News and Awards</h2>
                     </div>
@@ -656,56 +656,56 @@
                         <img src="assets/img/admission/admission-1.png" alt="">
                         <div class="h6_admission-form">
                             <h5 class="h6_admission-form-title">Admissions</h5>
-                            <form action="#">
+                            <form action="index_admission_mail.php" method="post">
                                 <div class="row g-15">
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="First Name">
+                                            <input type="text" placeholder="First Name" name="fname" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="Last Name">
+                                            <input type="text" placeholder="Last Name" name="lname" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="email" placeholder="Email">
+                                            <input type="email" placeholder="Email" name="email" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="Phone">
+                                            <input type="number" placeholder="Phone" name="phone" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="Street Address">
+                                            <input type="text" placeholder="Street Address" name="address" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="City">
+                                            <input type="text" placeholder="City" name="city" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="State">
+                                            <input type="text" placeholder="State" name="state" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-sm-6">
                                         <div class="h6_admission-form-input">
-                                            <input type="text" placeholder="Zip Code">
+                                            <input type="number" placeholder="Zip Code" name="zip_code" required>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="h6_admission-form-input">
-                                            <input type="date">
+                                            <input type="date" name="date" required>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="h6_admission-form-input">
-                                            <textarea name="message" placeholder="Academic Qualifications"></textarea>
+                                            <textarea name="msg" placeholder="Tell Us What You Think"></textarea>
                                         </div>
                                     </div>
                                     <div class="col-12">

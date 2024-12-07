@@ -19,7 +19,7 @@
     </section>
 
     <!-- about area start -->
-    <section class="h7_about-area pt-50 pb-50">
+    <section class="h7_about-area pt-50 pb-50 president_msg">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
@@ -38,7 +38,7 @@
                                 their potential, embrace their strengths, and overcome challenges with resilience and determination. Our 
                                 mission is to prepare you, dear students, to become leaders, innovators, and agents of positive change in society.  
                             </p>
-                            <p class="section-text">
+                            <p class="section-text para-3">
                             The journey of education is one of growth and transformation. It is a partnership between the institution, the faculty, 
                             and you—the students. While we provide the resources, guidance, and encouragement, it is your dedication, passion, and
                             vision that will ultimately shape your future. I urge you to dream big, work hard, and let the light of your talents 

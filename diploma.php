@@ -166,6 +166,9 @@
         .box .card {
             flex-direction: column;
         }
+        .box{
+            padding: 15px;
+        }
 
         .card .list {
             width: 100%;

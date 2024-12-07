@@ -6170,8 +6170,82 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 @media (max-width: 767px) {
   .section-area-6 .section-title {
-    font-size: 33px;
+    font-size: 26px;
   }
+  .h6_research-img {
+    padding-right: 13px !important;
+    padding-bottom: 15px !important;
+}
+.h6_research-wrap{
+  margin-bottom: 0px !important;
+}
+.section-area-6{
+  margin-bottom: 20px !important;
+}
+.h6_campus-area{
+  margin-bottom: 0px !important;
+}
+.h5_category-section-button{
+  margin-bottom: 0px !important;
+}
+.teacher-pagination{
+  margin-top: 25px !important;
+}
+.h7_about-img{
+  margin-bottom: 0px !important;
+}
+.h5_blog-area .row{
+  margin-bottom: 0px !important;
+  
+}
+.h4_faq-area{
+  padding-bottom: 35px !important;
+}
+.h4_faq-wrap{
+  margin-bottom: 30px !important;
+}
+.h7_about-wrap{
+  margin-bottom: 0px !important;
+}
+.image-title h6, h5{
+  margin-bottom: 5px !important;
+  font-size: 18px !important;
+}
+.image-title h6{
+  font-size: 15px !important;
+}
+.h2_course-item{
+  margin-bottom: 10px !important;
+}
+.testimonial-section-area .section-area{
+  margin-bottom: 10px !important;
+}
+.h6_about-area{
+  padding-bottom: 10px !important;
+  padding-top: 10px !important;
+}
+.h6_about-img {
+  padding-bottom: 25px;
+}
+.choose_us{
+  margin-top: 0px !important;
+}
+.feat .section-area{
+  margin-bottom: 15px !important;
+}
+.placement-section{
+  margin-top: 20px !important;
+}
+.facilities_block .section-title{
+  font-size: 27px !important;
+}
+.extra-curricular-header .section-title{
+  font-size: 29px !important;
+}
+.extra-curricular-header .section-area-8 p{
+  text-align: justify;
+}
+
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .section-area-6 .section-title {
@@ -7858,6 +7932,7 @@ input:focus::placeholder, textarea:focus::placeholder {
 }
 .course_class .h2_course-tab .nav .nav-item .nav-link {
   font-size: 19px;
+  font-weight: 600;
 }
 .h2_course-tab .nav .nav-item .nav-link {
   padding: 0;
@@ -8748,22 +8823,82 @@ footer p{
 .h8_blog-navigation {
   justify-content: end;
 }
+.h6_program-item-content-info-title {
+  font-size: 20px !important;
+}
+.h6_program-item-content {
+  padding:20px 15px 20px !important;
+}
+.h6_program-item-content-icon svg {
+  color: #fff;
+  width: 35px !important;
+}
+.h6_program-item-content-info-link {
+  color: #FFF;
+  font-size: 14px !important;
+}
+.h8_blog-item-content {
+  padding: 25px 15px 25px !important;
 
+}
+.innerPage_gallery-tab .nav .nav-item .nav-link {
+  margin-right: 10px !important;
+}
 }
 
 
 /* tab response */
 @media (max-width:1024px) and (min-width:768px){
+  .h6_single-banner {
+    min-height: 41vh;
+  }
   .banner-1-content {
     position: absolute;
-    top: 30%;
+    top: 27%;
     left: 3%;
+}
+.banner-1-content .h6_banner-content-title {
+  font-size: 50px;
+}
+.banner-1-content .h6_banner-content-title span {
+  font-size: 25px;
+}
+.h6_about-content-title {
+  font-size: 31px !important;
+  font-weight: 600;
+  line-height: 1.2 !important;
+  margin-bottom: 5px !important;
+}
+.announcements-wrap {
+  z-index: -1;
+}
+.footer-top .row{
+  justify-content: flex-start !important;
+}
+.h6_campus-item-2 ul li a {
+  font-size: 14px !important;
+  padding: 0 10px !important;
+}
+.h6_research-content-right {
+  padding-left: 15px !important;
+}
+.h6_about-img {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 0px !important;
+}
+.h6_program-item-content-icon svg {
+  color: #fff;
+  width: 40px !important;
+}
+.h6_about-img-content {
+  bottom: 20px;
 }
 .h6_program-item-content-info-title {
   font-size: 18px !important;
 }
 .h6_program-item-content {
-    padding: 20px 20px 20px !important;
+    padding: 10px 10px 10px !important;
 }
 .h6_program-item-content-info-link {
   font-size: 15px !important;
@@ -8772,7 +8907,7 @@ footer p{
   width: 100%;
 }
 .announcements-wrap {
-  max-height: 377px !important;
+  max-height: 333px !important;
 }
 .logo-text p{
   font-size: 15px;
@@ -8802,7 +8937,42 @@ footer p{
 .course-submenu > li > a::after {
   display: none;
 }
-
+.news_event .news_section{
+  width: 45%;
+}
+.news_event .col-xl-5{
+  width: 39%;
+}
+.news_event .col-xl-2{
+  width: 16%;
+}
+.section-area-6 .section-title {
+  font-size: 35px;
+}
+.h7_about-wrap .section-area-6 .section-title {
+  font-size: 28px;
+}
+.about_us_section{
+  margin-bottom: -55px;
+}
+.h7_about-img {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+}
+.w_img img {
+  height: 100%;
+  width: 100%;
+}
+.h5_blog-area .col-xl-4{
+  margin-bottom: 25px;
+}
+.para-3{
+  width: 207%;
+}
+.president_msg .h7_about-img {
+    height: 75%;
+}
 }
 
 
@@ -10809,7 +10979,11 @@ footer p{
 }
 @media (max-width: 767px) {
   .h6_about-content-title {
-    font-size: 30px;
+    font-size: 24px;
+  }
+  .h6_about-content{
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -15962,7 +16136,7 @@ footer p{
   margin-bottom: 0;
 }
 .h3_teacher-content h5{
-  color: #fff;
+  color: #1d3f7e;
 }
 
 .h6_teacher-area {
@@ -16486,7 +16660,7 @@ marquee {
 }
 @media (max-width: 767px) {
   .breadcrumb-title {
-    font-size: 35px;
+    font-size: 27px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -17240,7 +17414,7 @@ marquee {
   .contact-form-submit {
     flex-direction: column;
     gap: 20px;
-    align-items: flex-start;
+    align-items: center;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {

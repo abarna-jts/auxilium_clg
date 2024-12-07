@@ -72,7 +72,7 @@
                                             <a href="index.php">Home</a>
                                         </li>
                                         <li class="menu-has-child">
-                                            <a href="about.php">About</a> 
+                                            <a href="">About</a> 
                                             <ul class="submenu">
                                                 <li><a href="about.php">About our college</a></li>
                                                 <li><a href="history.php">History of the College</a></li>
