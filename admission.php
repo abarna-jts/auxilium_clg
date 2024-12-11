@@ -133,7 +133,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="h3_admission-form-input">
-                                        <textarea name="msg" placeholder="Academic Qualifications"></textarea>
+                                        <textarea name="msg" placeholder="Tell Us What You Think"></textarea>
                                     </div>
                                 </div>
                                 <div class="col-12">

@@ -747,18 +747,18 @@
                 <h4> Empowering rural women through quality education and holistic personal growth</h4>
                 <div class="h6_campus-item-2-ul">
                     <ul>
-                        <li><a href="#">Empowering Education <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Holistic Development <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Strategic Location <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Experienced Faculty <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Diverse Academic Programs <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_1">Empowering Education <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_2">Holistic Development <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_3">Strategic Location <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_4">Experienced Faculty <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_5">Diverse Academic Programs <i class="fa-light fa-arrow-right"></i></a></li>
                     </ul>
                     <ul>
-                        <li><a href="#">State-of-the-Art Facilities <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Strong Values and Vision <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Affordable Education <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Supportive Community <i class="fa-light fa-arrow-right"></i></a></li>
-                        <li><a href="#">Proven Legacy <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_6">State-of-the-Art Facilities <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_7">Strong Values and Vision <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_8">Affordable Education <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_9">Supportive Community <i class="fa-light fa-arrow-right"></i></a></li>
+                        <li><a href="why_choose_us.php#choose_10">Proven Legacy <i class="fa-light fa-arrow-right"></i></a></li>
 
                     </ul>
                 </div>

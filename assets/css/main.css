@@ -10766,7 +10766,7 @@ footer p{
   }
 }
 .h4_about-wrap {
-  margin-left: 80px;
+  margin-left: 75px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .h4_about-wrap {
@@ -10788,16 +10788,17 @@ footer p{
 }
 .h4_about-content ul li {
   border-radius: 30px;
-  background: linear-gradient(90deg, rgba(246, 124, 55, 0.14) 0%, rgba(246, 124, 55, 0) 100%);
-  height: 40px;
-  line-height: 40px;
-  padding: 0 10px;
+  background: linear-gradient(90deg, rgb(0 173 239 / 42%) 0%, rgba(246, 124, 55, 0) 100%);
+  height: 100%;
+  line-height: 23px;
+  padding: 25px 10px;
   display: flex;
+  text-align: justify;
   align-items: center;
   gap: 5px;
   margin-bottom: 15px;
   color: #F67C37;
-  width: max-content;
+  width: 100%;
 }
 .h4_about-content ul li i {
   width: 24px;
@@ -10818,11 +10819,11 @@ footer p{
   background-color: #1569FD;
 }
 .h4_about-content ul li:last-child {
-  background: linear-gradient(90deg, rgba(246, 55, 88, 0.14) 0%, rgba(246, 55, 88, 0) 100%);
-  color: #F63758;
+  background: linear-gradient(90deg, rgba(21, 105, 253, 0.14) 0%, rgba(21, 105, 253, 0) 100%);
+  color: #3567f9;
 }
 .h4_about-content ul li:last-child i {
-  background-color: #F63758;
+  background-color: #1569fd;
 }
 .h4_about-button {
   display: flex;
@@ -16847,13 +16848,13 @@ marquee {
   z-index: 1;
 }
 .innerPage_gallery-content a {
-  width: 90px;
-  height: 90px;
+  width: 40px;
+  height: 40px;
   background: #fff;
   display: grid;
   place-items: center;
   border-radius: 50%;
-  font-size: 20px;
+  font-size: 17px;
   color: var(--clr-theme-primary);
   z-index: 99;
 }

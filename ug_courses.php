@@ -294,7 +294,7 @@
                                 <i class="fa-solid fa-hand-point-right"></i>
                                 <span class="topic">Bachelor of Arts in Tamil (B.A. Tamil)</span>
                             </label>
-                            <label for="history" class="history">
+                            <label for="history" class="history" id="history">
                                 <i class="fa-solid fa-hand-point-right"></i>
                                 <span class="topic">Bachelor of Arts in History (B.A. History)</span>
                             </label>
@@ -333,7 +333,7 @@
                             <div class="indicator"></div>
                         </div>
                         <div class="content">
-                            <div class="tamil">
+                            <div class="tamil" id="course_1">
                                 <div class="sub-title">
                                     Bachelor of Arts in Tamil (B.A. Tamil)
                                 </div>
@@ -423,7 +423,7 @@
 
                                 </div>
                             </div>
-                            <div class="history">
+                            <div class="history" id="history">
                                 <div class="sub-title">
                                     Bachelor of Arts in History (B.A. History)
                                 </div>

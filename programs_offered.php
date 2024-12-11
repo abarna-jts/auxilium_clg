@@ -67,7 +67,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php#course_1">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -88,7 +88,7 @@
                                             <div class="h2_course-content-bottom">
                                                 
                                                 <div class="h2_course-bottom-btn">
-                                                    <a href="ug_courses.php">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
+                                                    <a href="ug_courses.php#history">More Details<i class="fa-light fa-arrow-right"></i><i class="fa-light fa-arrow-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>

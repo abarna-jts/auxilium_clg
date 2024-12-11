@@ -89,6 +89,7 @@
                                                 <li><a href="affiliation-detail.php">Affiliation Details</a></li>
                                                 <li><a href="why_choose_us.php">Why Choose Us</a></li>
                                                 <li><a href="placement_detail.php">Placement Details</a></li>
+                                                <li><a href="awards.php">Awards and Recognition</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -106,6 +107,7 @@
                                                 </li>
                                                
                                                 <li class="course-2"><a href="extra-curricular.php">Extra-Curricular activities</a></li>
+                                                <!-- <li class="course-2"><a href="faculty_detail.php">Faculty details</a></li> -->
                                                 
                                             </ul>
                                         </li>

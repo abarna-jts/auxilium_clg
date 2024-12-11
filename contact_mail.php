@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $course = $_POST["course"];
     $msg = $_POST["msg"];
 
-    $to = "abarnadevi.jorimts@gmail.com"; 
+    $to = "info@aascw.ac.in"; 
     $subject = "Contact form from $name";
     $body = "Name: $name\n <br>";
     $body.= "Email: $email\n<br>";
@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Port = 587;
         $mail->setFrom('test.jorim@gmail.com', 'Auxilium Arts and Science College for Women'); 
         $mail->addAddress($to);
-        $mail->addAddress('abarnadevi.jorimts@gmail.com');
+        $mail->addAddress('info@aascw.ac.in');
         $mail->isHTML(true);
         $mail->Subject = $subject;
         $mail->Body = $body;

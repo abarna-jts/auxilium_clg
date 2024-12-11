@@ -316,61 +316,61 @@
                     <div class="section-area mb-55 section-area-top text-center">
                         <h2 class="section-title mb-20">Why Choose Us</h2>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_1">
                         <div class="item"> <span class="icon feature_box_col_one"><i class="fa fa-graduation-cap"></i></span>
                             <h6>Empowering Education</h6>
                             <p> Auxilium Arts and Science College for Women is committed to transforming the lives of young women from rural and underprivileged backgrounds by offering quality education and fostering personal growth. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_2">
                         <div class="item"> <span class="icon feature_box_col_two"><i class="fas fa-hand-holding-heart"></i></span>
                             <h6>Holistic Development</h6>
                             <p>Our focus is not just on academics but also on nurturing intellectual, emotional, moral, and social development to create well-rounded individuals prepared for life’s challenges. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_3">
                         <div class="item"> <span class="icon feature_box_col_three"><i class="fas fa-route"></i></span>
                             <h6>Strategic Location</h6>
                             <p>Conveniently located on the Trichy-Madurai highway, the college is easily accessible to students from nearby villages, making education within reach for rural communities. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_4">
                         <div class="item"> <span class="icon feature_box_col_four"><i class="fas fa-chalkboard-teacher"></i></span>
                             <h6>Experienced Faculty</h6>
                             <p>Our dedicated and highly qualified faculty provide personalized attention to ensure students achieve their full potential. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_5">
                         <div class="item"> <span class="icon feature_box_col_five"><i class="fas fa-user-graduate"></i></span>
                             <h6>Diverse Academic Programs</h6>
                             <p> We offer a range of undergraduate and postgraduate courses, along with job-oriented diploma programs, designed to equip students with skills for a competitive job market. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_6">
                         <div class="item"> <span class="icon feature_box_col_six"><i class="fas fa-microscope"></i></span>
                             <h6>State-of-the-Art Facilities</h6>
                             <p>Modern infrastructure, including well-equipped classrooms, laboratories, a library, hostel facilities, and a canteen, provides a comfortable and conducive learning environment. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_7">
                         <div class="item"> <span class="icon feature_box_col_six"><i class="fas fa-balance-scale"></i></span>
                             <h6>Strong Values and Vision</h6>
                             <p>Guided by the charism of Don Bosco and Mother Mazzarello, the college fosters a culture of social responsibility, integrity, and empowerment. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_8">
                         <div class="item"> <span class="icon feature_box_col_six"><i class="fas fa-hand-holding-usd"></i></span>
                             <h6>Affordable Education</h6>
                             <p>With a mission to support economically disadvantaged young women, we provide accessible and affordable education without compromising on quality. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_9">
                         <div class="item"> <span class="icon feature_box_col_six"><i class="fas fa-hands-helping"></i></span>
                             <h6>Supportive Community</h6>
                             <p>The Auxilium Educating Community—comprising staff, parents, students, and affiliates—works collaboratively to create a nurturing and supportive environment for every learner. </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6" id="choose_10">
                         <div class="item"> <span class="icon feature_box_col_six"><i class="fas fa-medal"></i></span>
                             <h6>Proven Legacy</h6>
                             <p>Established by the Salesian Sisters of Don Bosco, the college is part of a renowned network dedicated to empowering young women through education for over a century. </p>

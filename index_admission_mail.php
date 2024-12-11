@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $date=$_POST["date"];
     $msg = $_POST["msg"];
 
-    $to = "abarnadevi.jorimts@gmail.com"; 
+    $to = "admissions@aascw.ac.in"; 
     $subject = "Admission form from $fname";
     $body = "First Name: $fname\n <br>";
     $body = "Last Name: $lname\n <br>";
@@ -28,7 +28,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $body.= "City: $city\n<br>";
     $body.= "State: $state\n<br>";
     $body.= "Zip Code: $zip_code\n<br>";
-    
     $body.= "Date: $date\n<br>";
     $body.="Message: $msg\n<br>";
 
@@ -44,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Port = 587;
         $mail->setFrom('test.jorim@gmail.com', 'Auxilium College Admission Form'); 
         $mail->addAddress($to);
-        $mail->addAddress('abarnadevi.jorimts@gmail.com');
+        $mail->addAddress('admissions@aascw.ac.in');
         $mail->isHTML(true);
         $mail->Subject = $subject;
         $mail->Body = $body;
